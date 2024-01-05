@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: ko
 title:  "[python] DFS/BFS 파이썬 기본 템플릿 코드 익히기"
 date:   2023-08-10
 excerpt: "DFS/BFS 파이썬 기본 템플릿 코드 익히기"

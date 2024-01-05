@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: ko
 title:  "Effective Python 파이썬 코딩의 기술 요약 정리 (Chapter 1. 파이썬 답게 생각하기)"
 date:   2023-07-28
 excerpt: "Effective Python 파이썬 코딩의 기술 요약 정리"

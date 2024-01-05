@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: ko
 title:  "리눅스 메모리 성능 모니터링(free,ps 사용법)"
 date:   2023-02-17
 excerpt: "linux 메모리 성능 모니터링"

@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: ko
 title:  "graphql 스튜디오 로컬 서버 접속으로 인한 Unable to reach server문제 해결"
 date:   2023-02-23
 excerpt: "graphql 스튜디오 로컬 서버 접속으로 인한 Unable to reach server문제 해결"

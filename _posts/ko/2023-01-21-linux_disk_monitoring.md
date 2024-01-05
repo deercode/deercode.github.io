@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: ko
 title:  "리눅스 디스크 성능 모니터링(df,du,iostat,pidstat 사용법)"
 date:   2023-01-21
 excerpt: "linux 디스크 성능 모니터링"

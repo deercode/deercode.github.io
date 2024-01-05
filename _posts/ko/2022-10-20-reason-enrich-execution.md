@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: ko
 title:  "[Elasticsearch] enrich policy execute시 주의사항"
 date:   2022-10-20
 excerpt: "enrich policy execute시 주의사항"

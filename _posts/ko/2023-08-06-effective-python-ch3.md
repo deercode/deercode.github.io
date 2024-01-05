@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: ko
 title:  "Effective Python 파이썬 코딩의 기술 요약 정리 (Chapter 3. 함수)"
 date:   2023-08-06
 excerpt: "Effective Python 파이썬 코딩의 기술 요약 정리"

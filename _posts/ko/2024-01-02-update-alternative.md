@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: ko
 title:  "[linux] update-alternatives로 프로그램 버전 관리하기"
 date:   2024-01-02
 excerpt: "update-alternatives로 프로그램 버전 관리하기"
