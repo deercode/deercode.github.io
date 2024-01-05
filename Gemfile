@@ -28,4 +28,4 @@ if RUBY_PLATFORM =~ /linux-musl/
 end
 
 gem 'jekyll-polyglot', git: 'https://github.com/deercode/polyglot', branch: 'master'
-
+gem 'jekyll-sitemap'
