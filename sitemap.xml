@@ -19,14 +19,5 @@ layout:
         {% endunless %}
     {% endfor %}
 
-    {% comment %}<!-- This loops through all site collections including posts -->{% endcomment %}
-    {% for collection in site.collections %}
-        {% for node in site[collection.label] %}
-            <url>
-                <loc>{% if lang == site.default_lang %}{{ node.url | absolute_url }}{% else %}{{ node.url | prepend: lang | prepend: '/' | absolute_url }}{% endif %}</loc>
-            </url>
-        {% endfor %}
-    {% endfor %}
-
 {% endfor %}
 </urlset>
