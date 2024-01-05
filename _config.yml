@@ -28,6 +28,7 @@ description: >- # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://deercode.github.io"
 
+  
 github:
   username: deercode  # change to your github username
 
@@ -196,7 +197,8 @@ jekyll-archives:
 
 plugins:
   - jekyll-polyglot
-
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 languages: ["en", "ko", "ja"] # 지원하고자 하는 언어
 default_lang: "ko" # 컨텐츠의 기본 언어
