@@ -14,7 +14,6 @@ layout:
   {% if node.layout %}
   <url>
     <loc>{% if lang == site.default_lang %}{{ node.url | absolute_url }}{% else %}{{ node.url | prepend: lang | prepend: '/' | absolute_url }}{% endif %}</loc>
-    <lastmod>{{ node.lastmod | date_to_xmlschema}}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
