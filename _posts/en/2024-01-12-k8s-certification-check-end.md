@@ -10,7 +10,7 @@ comments: true
 ---
 
 ## Kubernetes Certificate Expiry Alert
-```
+```bash
 A client certificate used to authenticate to the Kubernetes API server is expiring in less than 7.0 days.
 ```
 If you see a message like the one above on your k8s cluster, it indicates that the certificate specified in the kube config is nearing its expiration date.
@@ -18,7 +18,7 @@ If you see a message like the one above on your k8s cluster, it indicates that t
 ## Checking Kubernetes Certificate Expiry Date
 #### Shell Script
 To check the expiry date of the kube config, you can use the following shell command:
-```
+```bash
 $ cat config | grep client-certificate-data | cut -f2 -d : | tr -d ' ' | base64 -d | openssl x509 -text -out - | grep "Not After"
 >> Not After: Mar 24 06:01:12 2024 GMT
 ```
