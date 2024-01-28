@@ -7,6 +7,7 @@ excerpt: "DFS/BFS Pythonの基本テンプレートコードを学ぶ"
 categories: [Algorithm]
 tags: [python, Algorithm]
 comments: true
+permalink: /dfs-by-python
 ---
 
 ## グラフの探索

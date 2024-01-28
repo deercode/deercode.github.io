@@ -7,6 +7,7 @@ excerpt: "update-alternativesを使用してプログラムのバージョンを
 categories: [Linux]
 tags: [linux]
 comments: true
+permalink: /update-alternative
 ---
 
 ## update-alternativesコマンド

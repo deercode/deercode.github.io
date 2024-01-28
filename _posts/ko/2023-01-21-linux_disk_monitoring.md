@@ -7,6 +7,7 @@ excerpt: "linux 디스크 성능 모니터링"
 categories: [Linux]
 tags: [linux, df, du, iostat, pidstat, 성능모니터링]
 comments: true
+permalink: linux_disk_monitoring
 ---
 
 # 리눅스 디스크 성능 모니터링

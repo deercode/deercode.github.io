@@ -7,6 +7,7 @@ excerpt: "graphql 스튜디오 로컬 서버 접속으로 인한 Unable to reach
 categories: [Linux, Server]
 tags: [linux,graphql]
 comments: true
+permalink: /graphqlstudio
 ---
 
 ## 문제 상황

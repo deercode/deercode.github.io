@@ -7,6 +7,7 @@ excerpt: "Linuxメモリパフォーマンスモニタリング"
 categories: [Linux]
 tags: [linux, free, du, プロセスごとのメモリ使用量, パフォーマンスモニタリング]
 comments: true
+permalink: /linux_memory_monitoring
 ---
 
 # Linuxメモリパフォーマンスモニタリング

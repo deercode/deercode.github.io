@@ -7,6 +7,7 @@ excerpt: "DFS/BFS 파이썬 기본 템플릿 코드 익히기"
 categories: [Algorithm]
 tags: [python, Algorithm]
 comments: true
+permalink: /dfs-by-python
 ---
 
 ## 그래프 순회

@@ -7,6 +7,7 @@ excerpt: "linux 메모리 성능 모니터링"
 categories: [Linux]
 tags: [linux, free, du, 프로세스별 메모리 사용량, 성능모니터링]
 comments: true
+permalink: /linux_memory_monitoring
 ---
 
 # 리눅스 메모리 성능 모니터링

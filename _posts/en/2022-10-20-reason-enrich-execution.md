@@ -7,6 +7,7 @@ excerpt: "Precautions when executing enrich policy"
 categories: [DataEngineering, Elasticsearch]
 tags: [elasticsearch]
 comments: true
+permalink: /reason-enrich-execution
 ---
 
 ## Purpose of Using Enrich

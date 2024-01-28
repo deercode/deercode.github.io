@@ -7,6 +7,7 @@ excerpt: "[kubernetes] k8s client config 인증서 만료일 확인하는 방법
 categories: [kubernetes]
 tags: [linux, kubernetes]
 comments: true
+permalink: /k8s-certification-check-end
 ---
 
 ## Kubernetes certificate 인증 만료 알람

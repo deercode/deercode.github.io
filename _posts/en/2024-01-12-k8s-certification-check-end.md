@@ -7,6 +7,7 @@ excerpt: "[kubernetes] How to Check Expiry Date of k8s Client Config Certificate
 categories: [kubernetes]
 tags: [linux, kubernetes]
 comments: true
+permalink: /k8s-certification-check-end
 ---
 
 ## Kubernetes Certificate Expiry Alert

@@ -7,6 +7,7 @@ excerpt: "Resolution of 'Unable to reach server' issue in GraphQL Studio due to 
 categories: [Linux, Server]
 tags: [linux, graphql]
 comments: true
+permalink: /graphqlstudio
 ---
 
 ## Problem Situation

@@ -7,6 +7,7 @@ excerpt: "Monitoring Linux Memory Performance"
 categories: [Linux]
 tags: [linux, free, du, process-wise memory usage, performance monitoring]
 comments: true
+permalink: /linux_memory_monitoring
 ---
 
 # Linux Memory Performance Monitoring

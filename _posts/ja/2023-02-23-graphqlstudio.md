@@ -7,6 +7,7 @@ excerpt: "ローカルサーバーへの接続によるUnable to reach serverの
 categories: [Linux, Server]
 tags: [linux, graphql]
 comments: true
+permalink: /graphqlstudio
 ---
 
 ## 問題の状況

@@ -7,6 +7,7 @@ excerpt: "[kubernetes] k8s クライアント構成証明書の有効期限を�
 categories: [kubernetes]
 tags: [linux, kubernetes]
 comments: true
+permalink: /k8s-certification-check-end
 ---
 
 ## Kubernetes 証明書有効期限アラート

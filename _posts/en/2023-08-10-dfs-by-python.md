@@ -7,6 +7,7 @@ excerpt: "Learn Basic Template Codes for DFS/BFS in Python"
 categories: [Algorithm]
 tags: [python, Algorithm]
 comments: true
+permalink: /dfs-by-python
 ---
 
 ## Graph Traversal

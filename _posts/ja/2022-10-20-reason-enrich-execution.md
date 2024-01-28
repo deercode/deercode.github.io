@@ -7,6 +7,7 @@ excerpt: "enrichポリシーの実行時の注意事項"
 categories: [DataEngineering, Elasticsearch]
 tags: [elasticsearch]
 comments: true
+permalink: /reason-enrich-execution
 ---
 
 ## enrichの利用目的

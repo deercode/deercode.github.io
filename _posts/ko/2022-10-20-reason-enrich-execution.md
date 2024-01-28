@@ -7,6 +7,7 @@ excerpt: "enrich policy execute시 주의사항"
 categories: [DataEngineering, Elasticsearch]
 tags: [elasticsearch]
 comments: true
+permalink: /reason-enrich-execution
 ---
 
 ## enrich를 사용하는 이유

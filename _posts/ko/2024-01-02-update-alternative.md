@@ -7,13 +7,14 @@ excerpt: "update-alternatives로 프로그램 버전 관리하기"
 categories: [Linux]
 tags: [linux]
 comments: true
+permalink: /update-alternative
 ---
 
 ## update-alternatives 명령어
 이 명령어를 처음 알게 된 것은 로컬에 여러 버전의 php가 깔렸을때 버전을 쉽게 바꾸는 방법을 찾다가 알게 되었다. 
 `update-alternatives` 명령어는 심볼링 링크를 관리해주는 리눅스 프로그램이다. 
 
-그럼 여러 php 버전이 설치된 상황에서 `update-alternatives`를 사용하는 시나리오를 살펴보자. 
+그럼 여러 php 버전이 설치된 상황에서 `update-alternatives`를 사용하는 시나리오를 살펴보자.  
 
 ## update-alternatives 명령어로 php 버전 관리하기
 #### 등록된 심볼릭 링크 확인

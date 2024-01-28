@@ -7,6 +7,7 @@ excerpt: "Monitoring disk performance on Linux"
 categories: [Linux]
 tags: [linux, df, du, iostat, pidstat, performance monitoring]
 comments: true
+permalink: linux_disk_monitoring
 ---
 
 # Linux Disk Performance Monitoring

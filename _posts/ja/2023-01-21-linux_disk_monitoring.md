@@ -7,6 +7,7 @@ excerpt: "Linux ディスク パフォーマンス モニタリング"
 categories: [Linux]
 tags: [linux, df, du, iostat, pidstat, パフォーマンス モニタリング]
 comments: true
+permalink: linux_disk_monitoring
 ---
 
 # Linux ディスク パフォーマンス モニタリング

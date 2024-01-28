@@ -7,6 +7,7 @@ excerpt: "Managing Program Versions with update-alternatives"
 categories: [Linux]
 tags: [linux]
 comments: true
+permalink: /update-alternative
 ---
 
 ## update-alternatives Command
